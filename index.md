@@ -23,6 +23,7 @@ I am a hacker from Poland, interested in various things ranging from digital ele
 * I am the author of [PyInventaryzator](https://github.com/hs3city/PyInwentaryzator/tree/minimal-prototype) used to generate [rzeczy.hs3.pl](http://rzeczy.hs3.pl).
 * Together with guys from [SR Skalp](http://skalppg.pl) we organised [Christmas Hackathon](https://hs3.pl/hackathon/) at [Hacker:Space Trójmiasto](https://hs3.pl).
 * During hackathon together with [AlkanRena](https://github.com/AlkanRena) and SebaMati, we've created a healthy diet habit tracker in kotlin [Hawajska Dla Każdego](https://github.com/AlkanRena/hawajskadlakazdego) in order to learn kotlin.
+* Together with Jędrzej D. and Maciej R. we created a university project "Stereoscopic camera system with pan and tilt functionality controled in real time by user with oculus rift". I was responsible for designing and creating the electronics, mechanics, [microcontroller code](https://github.com/mrozo/ARCameraHeadRom), [PC drivers for the camera head](blob/master/README.md) and of course [related part of the documentation](https://github.com/mrozo/ARCameraHeadThesis/tree/master). 
 
 And many others.
 
