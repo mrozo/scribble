@@ -32,9 +32,9 @@ Czy to znaczy że HS nie ma celu ani definicji?
 
 Według mnie HS ma tylko jedną definicję i jeden cel i chyba nigdy nikt tego w ten sposób nie ujął:
 
-* Definicja: HS to społeczność \* *
+**Definicja: HS to społeczność \***
 
-* Cel: Celem HSu jest społeczność sama w sobie *
+**Cel: Celem HSu jest społeczność sama w sobie**
 
 ad (*) jeśli bardzo tego pragniesz możesz dodać "... osób kreatywnych i technicznych"
 
