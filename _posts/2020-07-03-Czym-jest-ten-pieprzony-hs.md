@@ -1,6 +1,6 @@
 ---
 title: Czym jest ten pieprzony HS? Jaki jest jego pieprzony cel?
-date: "2020-07-03 23:11:00 GMT+2"
+
 ---
 
 
