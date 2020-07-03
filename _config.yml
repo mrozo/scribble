@@ -19,6 +19,7 @@ links:
   - name:         RSS
     url:          /feed.xml
     external:     false
+
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
