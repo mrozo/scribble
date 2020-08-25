@@ -4,7 +4,7 @@ title: About me
 
 ## Hi!
 
-I am a hacker from Poland, interested in various things ranging from digital electronics and embedded systems all the way up to software automation and web applications. Currently I am an active member of [hackerspace Pomorze](https://pomorze.hackerspace.pl), working at R.S.X. as an embedded developer. My past experience includes working as autimation engeneer at ADVA,  UEFI BIOS development internship at Intel, development testing suite for embedded hardware at [SDC](https://s-dc.eu/), technician at [Art Zone Events](http://www.aze.pl/).
+I am a hacker from Poland, interested in various things ranging from digital electronics and embedded systems all the way up to software automation and web applications. Currently I am an active member of [hackerspace Pomorze](https://pomorze.hackerspace.pl), working at R.S.X. as an embedded developer. My past experience includes working as automation engeneer at ADVA,  UEFI BIOS development internship at Intel, development testing suite for embedded hardware at [SDC](https://s-dc.eu/), technician at [Art Zone Events](http://www.aze.pl/).
 
 ## My interests
 
