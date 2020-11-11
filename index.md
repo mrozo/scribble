@@ -30,4 +30,4 @@ And many others.
 
 ---
 
-Find me on [GitHub](https://github.com/mrozo), [Linkedin](https://www.linkedin.com/in/krzysztof-em-46529316a/) and [Hacker:Space Trójmiasto slack](https://hs3city.slack.com).
+Find me on [GitHub](https://github.com/mrozo), [Linkedin](https://www.linkedin.com/in/krzysztof-em-46529316a/) and [Hackerspace Pomorze slack](https://hspomorze.slack.com).
