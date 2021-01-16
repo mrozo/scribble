@@ -46,5 +46,5 @@ Specjalnie w nagłówku dałem zbyt mocne określenie, żeby je teraz utemperowa
 
 Wnioskuję, więc że do zdrowej komunikacji potrzeba dwóch czynników — dbałości o jasność przekazu oraz dobrej woli obydwojga rozmówców. Jeśli brakuje jednego z tych czynników — przygotuj się na wiele gniewu.
 
-> > > > END OF RANT
+END OF RANT
 
