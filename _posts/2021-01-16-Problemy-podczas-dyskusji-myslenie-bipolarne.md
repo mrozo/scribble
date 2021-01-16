@@ -3,11 +3,6 @@ title: Problemy podczas dyskusji - myślenie bipolarne
 
 ---
 
----
-title: Problemy podczas dyskusji - myślenie bipolarne
-
----
-
 W czasie swoich działań w ramach społeczności hackerspaceu wielokrotnie spotkałem się z problemem przekazania swojej wizji spejsu wyważonego. Czym jest wyważony spejs? Cieszę się, że pytasz. Otóż spejs wyważony to taki, który wyważa potrzeby społeczności, żeby czasem być zamkniętym, a czasem być otwartym. Przy czym przez bycie:
 
 1. otwartym rozumiem sytuacje, w której z otwartymi ramionami witamy ludzi z zewnątrz i autentycznie dążymy do zaprzyjaźnienia się, zaproszenia w nasze szeregi, lub co najmniej spędzić czas na przyjemnej pogawędce z nowymi, ciekawymi ludźmi. W tym czasie zakładamy najlepsze koszule flanelowe i rezygnujemy ze stosowania technicznego żargonu.
