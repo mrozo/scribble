@@ -17,7 +17,7 @@ No i tutaj zaczyna się problem — z jakiegoś powodu, część osób interpret
 Takie zarzuty oraz takie rozumowanie uważam za logicznie błędne z prostych przyczyn:
 
 1. staram się zawsze zaznaczyć, że nie chodzi mi o zamykanie HSu, tylko dodanie jednego dnia tylko dla członków — obecnie każdy dzień jest dla członków oraz gości — zdarzało mi się, że gdy siedziałem sam w HS, osoby obce przychodziły bez zapowiedzi i spodziewały się, że je ugoszczę, udostępnię warsztat itd. - nie zawsze mam na to czas czy ochotę.
-2. Jestem jednym z najbardziej otwartych członków na HS — jeśli zajrzysz w historię HSu, to zobaczysz, że znaczący procent otwartych wydarzeń na HS został zorganizowany przeze mnie. Znacząca część osób dowiedziała się o HS dzięki moim działaniom. Niektórzy członkowie HSu są członkami, ponieważ o hackerspace dowiedziały się dzięki moim działaniom.
+2. Jestem jednym z najbardziej otwartych członków na HS — jeśli zajrzysz w historię HSu, to zobaczysz, że znaczący procent otwartych wydarzeń na HS został zorganizowany przeze mnie. Znacząca część osób dowiedziała się o HS dzięki moim działaniom.
 3. Zdaje się, że wciąż jako jedyny członek HSu jeździłem do innych HSów, żeby współpracować, zrobić gościnne warsztat/prezentację. A na pewno byłem pierwszy.
 
 Uważam, że gdy osoba z taką historią jak ja, mówi o potrzebie posiadania dnia zamkniętego, to interpretowanie tego jako zamknięcie HSu jest złe i wręcz głupie. Szczególnie że taka interpretacja często wychodzi z ust osób, które znają mnie i moją historię. Ja chcę, żeby HS był znany i lubiany. Lubię poznawać nowych ludzi na HS, lubię zapraszać ludzi do HSu i lubię współpracować z innymi HSami, ale lubię to robić na jasnych zasadach.
